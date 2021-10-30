@@ -71,7 +71,7 @@ function draw() {
     120
   );
   
-  
+} 
 }
 
 function draw() {
